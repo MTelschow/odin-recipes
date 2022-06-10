@@ -1,0 +1,11 @@
+h1 {
+    color: purple;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 22px;
+    font-weight: bold;   
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
